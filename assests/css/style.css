@@ -1,0 +1,61 @@
+
+.header{
+    width: 100%;
+    color: black;
+    font-family: bold;
+    text-align: center;
+    font-size: 100px;
+    padding: 40px;
+}
+
+body {
+    background-image: url(http://www.icytales.com/wp-content/uploads/2015/10/90s_cartoons_by_3dsamm-d61kxci.jpg);
+    background-size: 100% 100%;
+
+}
+
+
+#lossCounter {
+    display: none;
+}
+.word-box {
+    color: #7FFF00;
+    font-size: 30px;
+    background-color: black;
+    padding-bottom: 160px;
+    border-radius: 4em;
+    margin-bottom: 150px;
+    text-align: center;
+    padding-top: 60px;
+}
+.letter-box {
+    color: #7FFF00;
+    background-color: black;
+    font-size: 35px;
+    padding-bottom: 60px;
+}
+.guess-count {
+    color: #7FFF00;
+    background-color: black;
+    font-size: 20px;
+    padding-bottom: 60px;
+}
+.win-count {
+    color: #7FFF00;
+    font-size: 20px;
+    border-radius: 6em;
+    background-color: black;
+    padding-bottom: 60px;
+}
+.counter-box {
+    border-color: red;
+    border-radius: 6em;
+    background-color: black;
+    border-width: 4px;
+    text-align: center;
+    padding-top: 60px;
+    margin-bottom: 50px;
+}
+iframe {
+    display: none;
+}
